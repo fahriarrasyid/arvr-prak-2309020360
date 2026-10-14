@@ -1,3 +1,3 @@
 - Nama : Fahri Arrasyid
 - NIM : 2309020360
-- Link demo : https://USERNAME.github.io/arvr-prak-NIM/
+- Link demo : https://fahriarrasyid.github.io/arvr-prak-2309020360/
